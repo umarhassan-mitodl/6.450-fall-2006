@@ -1,0 +1,23 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 70461f71-51a0-80f3-60bc-4f76375fe746
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 40b7f46c-3dad-30d1-da1c-a5e3d9c2ac0a
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: fa48adb4-a651-aa53-c0ef-f8cba6e05b04
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: ae4681d9-8ec4-1e44-3e3e-f47556106769
+  name: Exams
+  pageRef: /pages/exams
+  weight: 40
+- identifier: 127979ae-5c42-b42f-61d8-fe92de2f1c30
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 50
