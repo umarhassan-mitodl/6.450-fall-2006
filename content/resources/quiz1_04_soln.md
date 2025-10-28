@@ -4,8 +4,6 @@ description: Solutions to Quiz 1.
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/c59828b4e470fd50daf31f0f7251456c_quiz1_04_soln.pdf
 file_size: 65550
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

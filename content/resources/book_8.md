@@ -5,8 +5,6 @@ description: 'Lecture notes on Chapter 8 of the course text: Detection, coding, 
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/f6c75b427b022503f5c605db7de4d46f_book_8.pdf
 file_size: 1125892
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/5fbfe88f97204f925fc1afabdbff67c2_vulw9qGXbH0.srt
 file_size: 101408
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -29,7 +29,6 @@
     "website": "6-450-principles-of-digital-communications-i-fall-2006"
   },
   "course_title": "Principles of Digital Communications I",
-  "hide_download": true,
   "course_description": "The course serves as an introduction to the theory and practice behind many of today's communications systems. 6.450 forms the first of a two-course sequence on digital communication. The second class, 6.451, is offered in the spring.\n\nTopics covered include: digital communications at the block diagram level, data compression, Lempel-Ziv algorithm, scalar and vector quantization, sampling and aliasing, the Nyquist criterion, PAM and QAM modulation, signal constellations, finite-energy waveform spaces, detection, and modeling and system design for wireless communication.\n",
   "department_numbers": [
     "6"
@@ -40,7 +39,6 @@
     "content": "384a4b4e-d24d-2bc3-1a5f-e35715de93ae",
     "website": "6-450-principles-of-digital-communications-i-fall-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",

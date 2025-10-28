@@ -4,8 +4,6 @@ description: 'Lecture notes on Chapter 9 of the course text: Wireless digital co
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/f8ed1cb4abc0b50d10c0e5974c1875ce_book_9.pdf
 file_size: 1070791
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

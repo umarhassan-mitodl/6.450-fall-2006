@@ -3,8 +3,6 @@ content_type: page
 description: The syllabus section provides the course description and information
   about prerequisites, text and handouts, problem sets, exams, course grade, reference
   texts, recommended citation, and a schedule of lecture topics and key dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

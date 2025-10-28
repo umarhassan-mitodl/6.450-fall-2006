@@ -5,8 +5,6 @@ description: 'Lecture notes on Chapter 5 of the course text: Vector spaces and s
 file: /courses/6-450-principles-of-digital-communications-i-fall-2006/90bcfef40894c3a17214902ff29c3d98_book_5.pdf
 file_size: 607646
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
